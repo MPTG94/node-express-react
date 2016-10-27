@@ -4,6 +4,7 @@
         "new-cap": 1,
         "linebreak-style": 0,
         "no-unused-vars": 0,
-        "no-negated-condition": 1
+        "no-negated-condition": 1,
+        "no-multi-str": 0
     }
 }
