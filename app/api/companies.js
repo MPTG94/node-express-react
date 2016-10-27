@@ -5,8 +5,6 @@ var validate = require('validate.js');
 var connection = require('../db/dbConnection');
 var constraints = require('../db/validators/companyValidators');
 
-var app = express();
-
 // Create whitelist object for validation
 var whitelist = {
   Name: true,
